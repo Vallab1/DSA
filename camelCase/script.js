@@ -7,6 +7,6 @@ function camelCase(s) {
     }
     return count;
 }
-let s = "sdfhsdBHIsdfhK";
-let output = camelCase(s);
-console.log(output); 
+let s = "orangeLemonMango";
+// let output = camelCase(s);
+console.log(camelCase(s)); 
